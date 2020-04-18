@@ -3,7 +3,7 @@ name: STGSafeConnector
 version: 0.0.1
 api-version: 1.15
 description: SynTacs Gaming's Minecraft Plugin
-author: STGaming SynTacs
+author: STGaming Prince
 commands:
   login:
     description: Login Command
