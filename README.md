@@ -10,4 +10,4 @@
 
 ### Ideas and Suggestions
 
-> If you have any ideas something that you want added into the server. Create an issue about it. I'll make sure to think about it but I can't promise that every written ideas and suggestions will be added into the server.
+> If you have any ideas something that you want added into the server. Create an issue about it. I'll make sure to think about it but I can't promise that every written ideas and suggestions will be added into the server
